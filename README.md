@@ -17,3 +17,4 @@ No caso do switich eu upei uma atualização de código.
 
 O próximo passo que terei é de fazer a interligação destes arquibos e códigos de forma que funcione de maneira eficiente e satisfatória para todos.
 
+Eu adicionei um segundo script que fará as buscas e autenticações de cadastros.Vou adicionar o form de login atualizado.
