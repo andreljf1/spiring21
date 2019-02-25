@@ -21,5 +21,5 @@ Eu adicionei um segundo script que fará as buscas e autenticações de cadastro
 
 Agora vou fazer a linkagem dos arquivos em HTML e testes e configurações do ambiente OAKT e finalização do sistema....Mais a noite.
 
-Trabalho resultante de esforços da Manhã e madrugada de Sabado e manhã e madrugada de Domingo...Agora falta apenas fazer a configuração do ambiente OKAT e ultimos ajustes....Para apresentar isto as 13hs...
+Trabalho resultante de esforços da Manhã e madrugada de Sabado e manhã e madrugada de Domingo...Agora falta apenas fazer a configuração do ambiente OKAT e ultimos ajustes....Para apresentar isto as 13hs...Acabei de finalizar o trabalho...Apenas terminar de configurar o OKAT para finalizar o trabalho e apresentar ao senhores...
 
