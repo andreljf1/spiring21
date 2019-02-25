@@ -19,4 +19,7 @@ O próximo passo que terei é de fazer a interligação destes arquibos e códig
 
 Eu adicionei um segundo script que fará as buscas e autenticações de cadastros.Vou adicionar o form de login atualizado.
 
-Agora vou fazer a linkagem dos arquivos em HTML e testes e configurações do ambiente OAKT e finalização do sistema....Mais a noite....
+Agora vou fazer a linkagem dos arquivos em HTML e testes e configurações do ambiente OAKT e finalização do sistema....Mais a noite.
+
+Trabalho resultante de esforços da Manhã e madrugada de Sabado e manhã e madrugada de Domingo...Agora falta apenas fazer a configuração do ambiente OKAT e ultimos ajustes....Para apresentar isto as 13hs...
+
