@@ -3,7 +3,7 @@ function AJAX() {
     function carregarDados(caminhoRetorno,idResposta,metodo,mensagem) {
         var conteudo=document.getElementById(idResposta);
         conteudo.innerHTML= mensagem;
-        var xmlhttp = getXmlHttp();
+        var xmlhttp = getXmlHttp(C:\Users\AndreLuis\Desktop\Ações estrategicas 2019\JTECH\Fabiel\okta-secure-spring-rest-api-example-master);
         //Abre a url
         xmlhttp.open(metodo.toUpperCase(), caminhoRetorno,true);
         //Executada quando o navegador obtiver o código
